@@ -2,7 +2,10 @@
 
 const LoginPage: React.FC = () => {
     return (
-        <h1>Hola</h1>
+        <main>
+            <h1 className="text-black">Hola</h1>
+        </main>
+        
     );
 }
 
